@@ -4,4 +4,7 @@ public class Calculator
 	{
 		
 	}
+	public void addition(){
+		
+	}
 }
